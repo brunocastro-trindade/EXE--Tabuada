@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 340px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#mensagem {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#resultado {
+    margin-top: 10px;
+    text-align: left;
+}
